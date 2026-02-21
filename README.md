@@ -30,4 +30,3 @@ Example results:
 | 1000       | 3728      | 46.60%                     | 3.7280                  |
 | 5000       | 16416     | 41.04%                     | 3.2832                  |
 
-## Project structure (suggested)
